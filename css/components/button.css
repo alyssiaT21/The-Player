@@ -1,0 +1,12 @@
+.button {
+	font-family: 'Inter', sans-serif; 
+	font-size: 100 px; 
+	color: #B6CBDE;
+	display: flex;
+	justify-content: space-between;
+	width: 550px;
+}
+
+
+
+

@@ -1,0 +1,81 @@
+.card {
+	display : flex;
+	align-items: center;
+	padding: 20px;
+}
+
+.articleflex {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+
+}
+
+.articleflex2 {
+	display: flex;
+	text-align: center;
+	justify-content: space-evenly;
+	margin-right: 20px;
+}
+.articleflex3 {
+	display: flex;
+	text-align: center;
+	justify-content: space-evenly;
+}
+
+.article4{
+	margin-right: 20px;
+}
+
+.article6 {
+	margin-right: 30px;
+}
+
+.article5 {
+	margin-right: 20px;
+}
+
+
+.photo {
+	width:  120px;
+	height: 150px;
+	object-fit: cover;
+	object-position: top;
+	margin-top: 30px;
+
+}
+
+.photo1 {
+	margin-top: 30px;
+
+}
+
+.article1:hover {
+	color: #ABC4FF;
+}
+
+.article2:hover {
+	color: #ABC4FF;
+}
+
+.article3:hover {
+	color: #ABC4FF;
+}
+
+.article4:hover {
+	color: #ABC4FF;
+}
+
+.article5:hover {
+	color: #ABC4FF;
+}
+
+.article6:hover {
+	color: #ABC4FF;
+}
+
+.article7:hover {
+	color: #ABC4FF;
+}
+
+
